@@ -34,6 +34,7 @@
 
     <!-- 代辦：目前任務 -->
 @endsection
+@include('common.errors')
 
 /**
  * Created by PhpStorm.
