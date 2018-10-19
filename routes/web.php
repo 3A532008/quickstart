@@ -21,9 +21,6 @@ Route::get('/', function () {
 
 
 });
-Route::get('/', function () {
-    //
-});
 
 // 增加新的任務
 Route::post('/task', function (Request $request) {
