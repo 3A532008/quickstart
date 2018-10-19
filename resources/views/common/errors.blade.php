@@ -1,4 +1,3 @@
-<?php
 @if (count($errors) > 0)
     <!-- 表單錯誤清單 -->
     <div class="alert alert-danger">
@@ -12,9 +11,3 @@
     </div>
 @endif
 
-/**
- * Created by PhpStorm.
- * User: 曾敏華
- * Date: 2018/10/19
- * Time: 下午 02:00
- */

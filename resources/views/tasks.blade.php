@@ -1,4 +1,3 @@
-<?php
 @extends('layouts.app')
 
 @section('content')
@@ -80,9 +79,3 @@
 @endsection
 
 
-/**
- * Created by PhpStorm.
- * User: 曾敏華
- * Date: 2018/10/19
- * Time: 下午 01:51
- */
